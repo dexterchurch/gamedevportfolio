@@ -23,6 +23,9 @@
 
 ## **First project:** 
 
+
+## **Other projects:**
+
 **Title:** ShapeGame
 
 **Description:** This is a simple game where you collect coins and try to last as long as possible as it speeds up over time.
