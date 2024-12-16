@@ -4,5 +4,5 @@
 
 **Email:** 9710126@graniteschools.org or Dexterchurchpersonal@gmail.com
 
-**Certifications:** ![alt text](https://github.com/user-attachments/files/18152735/Dexter.Church_Game.Development.Fundamentals_12162024.pdf)
+**Certifications:** ![image](https://github.com/user-attachments/files/18152735/Dexter.Church_Game.Development.Fundamentals_12162024.pdf)
 
